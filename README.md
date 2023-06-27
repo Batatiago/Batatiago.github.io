@@ -1,3 +1,3 @@
-# Meu repositorio de exercicios 
+# Meu repositorio de Portifolio
 
-Este repositorio contem todos os exercicios que fiz enquanto estudei na Trybe, a melhor escola de tecnologia do lado sul da Via Lactea. 🌎
+Este repositorio contem meu portifolio de estudante na Trybe.
