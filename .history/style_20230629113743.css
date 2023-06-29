@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-container {
+    background-color: black;
+    color: seagreen;
+}
+
+.header {
+    padding: 15px 10px;
+    width: 50%;
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.resumo-container {
+    background-color: seagreen;
+}
+.resumo {
+    display: inline-flex;
+    margin: 50px 60px;
+}
+
+.resumo h3 {
+    padding: 60px;
+    background-color: greenyellow;
+}
+
+#foto {
+    width: 500px;
+    flex: content;
+    margin: 10px;
+}

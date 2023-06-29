@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header-container {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.header {
+    padding: 15px 10px;
+    width: 40%;
+    margin: auto;
+    display: inline-flex;
+}
+
+header h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header h2 {
+    font-size: smaller; 
+}
+.resumo {
+    display: inline-flex;
+}

@@ -1,0 +1,18 @@
+* {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header {
+    text-align: auto;
+    padding: 15px 10px;
+}
+
+.meuNome {
+    font-family: sans-serif;
+}

@@ -1,0 +1,20 @@
+* {
+    background-color: black;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    color: whitesmoke;
+}
+
+.titulo{
+    align-items: baseline;
+    padding: 15px 10px;
+    }
+    
+    h3, p {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    
+    .meuNome {
+        font-family: sans-serif;
+    }

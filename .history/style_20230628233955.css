@@ -1,0 +1,17 @@
+* {
+    background-color: lightblue;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+h3, p {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.meuNome {
+    font-family: sans-serif;
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px 10px;
+}

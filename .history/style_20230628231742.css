@@ -1,0 +1,9 @@
+*{
+   background-color: lightblue; 
+}
+
+.meuNome{
+    background-color: black;
+    color: whitesmoke;
+    padding: 30px 10px;
+}

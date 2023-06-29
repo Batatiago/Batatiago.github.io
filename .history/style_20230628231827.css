@@ -1,0 +1,11 @@
+*{
+   background-color: lightblue; 
+   margin: none
+   ;
+}
+
+.meuNome{
+    background-color: black;
+    color: whitesmoke;
+    padding: 15px 10px;
+}

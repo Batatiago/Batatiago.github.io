@@ -1,0 +1,16 @@
+* {
+    background-color: lightblue;
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.tiago {
+    padding: 15px 10px;
+    
+}
+
+.meuNome {
+    background-color: black;
+    color: whitesmoke;
+}
